@@ -53,7 +53,7 @@ body {
 .block-container {
     max-width: 1500px;
 
-    padding-top: 2.2rem;
+    padding-top: 4.2rem;
     padding-bottom: 4rem;
 }
 
